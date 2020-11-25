@@ -45,4 +45,4 @@
 
 [telegram]: https://t.me/mintardev
 [facebook]: https://facebook.com/tarik.hks
-[linkedin]: https://linkedin.com/in/www.linkedin.com/in/tarasminenkomdev
+[linkedin]: https://linkedin.com/in/tarasminenkomdev
