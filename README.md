@@ -40,11 +40,8 @@
 
 
 
-<details>
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarasMDev&layout=compact)](https://github.com/TarasMDev/github-readme-stats)
 
-</details>
 
 [telegram]: t.me/mintardev
 [facebook]: https://facebook.com/tarik.hks
