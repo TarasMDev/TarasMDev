@@ -20,7 +20,7 @@
 
 <img align="left" alt="android-studio" width="26px" src="https://icon-library.com/images/android-studio-icon/android-studio-icon-8.jpg" />
 <img align="left" alt="intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
-<img align="left" alt="pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
+<img align="left" alt="pycharm" width="26px" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/pycharm_icon.svg" />
 <img align="left" alt="webstorm" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/WebStorm_1282x.png" />
 <img align="left" alt="eclipse" width="26px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
